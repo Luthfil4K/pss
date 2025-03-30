@@ -1,12 +1,42 @@
-# React + Vite
+# Bali Satu Data -
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Bali Satu Data Logo](https://example.com/logo.png)  <!-- Ganti dengan URL logo aplikasi kamu -->
 
-Currently, two official plugins are available:
+Aplikasi **Bali Satu Data** adalah sebuah platform yang mempermudah pengelolaan data dari berbagai sumber terkait Bali. Aplikasi ini dibangun menggunakan **React**, **Next.js**, **Axios**, dan **Prisma** untuk mengelola data dari database yang terintegrasi. Dengan tampilan berbasis web, aplikasi ini memberikan antarmuka interaktif yang ramah pengguna untuk memanipulasi data secara langsung.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Teknologi yang Digunakan
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Next.js** - Framework React untuk aplikasi server-side rendering dan static site generation.
+- **React** - Library JavaScript untuk membangun antarmuka pengguna.
+- **Axios** - Untuk melakukan HTTP requests ke backend.
+- **Prisma** - ORM untuk berinteraksi dengan database secara efisien.
+- **Node.js** - Untuk menjalankan backend server.
+- **Font Awesome** - Untuk ikon-ikon interaktif yang mempercantik tampilan aplikasi.
+
+## Fitur Aplikasi
+
+- 🌐 **Data Terpadu**: Aplikasi menggabungkan berbagai jenis data terkait Bali ke dalam satu platform yang mudah diakses.
+- 📊 **Interaktif**: Pengguna dapat melakukan interaksi langsung dengan data yang ada menggunakan antarmuka yang responsif.
+- 💾 **Database Terintegrasi**: Menggunakan **Prisma ORM** untuk mengelola data dalam database.
+- 📡 **Integrasi API**: Menggunakan **Axios** untuk mengambil data dari API backend.
+
+## Persyaratan
+
+Pastikan kamu sudah menginstal program-program berikut di komputer kamu:
+
+- [Node.js](https://nodejs.org/en/) - Untuk menjalankan server dan aplikasi.
+- [Prisma](https://www.prisma.io/docs) - Untuk manajemen database.
+
+---
+
+## Cara Menjalankan Aplikasi
+
+Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi **Bali Satu Data** secara lokal.
+
+### 1. Clone Repository
+
+```bash
+git clone https://github.com/username/bali-satu-data.git
+cd bali-satu-data
