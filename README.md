@@ -1,6 +1,6 @@
 # Bali Satu Data -
 
-![Bali Satu Data Logo](https://example.com/logo.png)  <!-- Ganti dengan URL logo aplikasi kamu -->
+![Bali Satu Data Logo](https://play-lh.googleusercontent.com/r3qHSgbc97r0IZZz-_sso4zNvUhXbY8vdoKty4eIiz8hZudiTCSvjKaSDWmlfyh8vgJI)  <!-- Ganti dengan URL logo aplikasi kamu -->
 
 Aplikasi **Bali Satu Data** adalah sebuah platform yang mempermudah pengelolaan data dari berbagai sumber terkait Bali. Aplikasi ini dibangun menggunakan **React**, **Next.js**, **Axios**, dan **Prisma** untuk mengelola data dari database yang terintegrasi. Dengan tampilan berbasis web, aplikasi ini memberikan antarmuka interaktif yang ramah pengguna untuk memanipulasi data secara langsung.
 
